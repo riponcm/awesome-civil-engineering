@@ -71,6 +71,7 @@ Open-source BIM and CAD software: Building Information Modeling, IFC interoperab
 - [IfcOpenShell](https://ifcopenshell.org): Open source IFC library and geometry engine powering BIM interoperability tools. (License: LGPL-3.0; Language: C++; Source: https://github.com/IfcOpenShell/IfcOpenShell)
 - [That Open Engine](https://thatopen.github.io/engine_web-ifc/demo): Fast IFC parsing and geometry engine for reading and writing BIM models in JavaScript and WebAssembly. (License: MPL-2.0; Language: TypeScript; Source: https://github.com/ThatOpen/engine_web-ifc)
 - [Speckle](https://speckle.systems): Collaborative data hub for AEC: exchange 3D models and BIM data between design tools in real time. (License: Apache-2.0; Language: TypeScript; Source: https://github.com/specklesystems/speckle-server)
+- [BidWright](https://demo.bidwright.app): Open-source construction estimating with 2D/3D/PDF/BIM takeoff, assemblies, pricing, scheduling, and bid quotes. (License: AGPL-3.0; Language: TypeScript; Source: https://github.com/braedonsaunders/bidwright)
 
 ## GIS & Geospatial
 

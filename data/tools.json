@@ -418,5 +418,15 @@
     "license": "MIT",
     "language": "Python",
     "added": "2026-07-31"
+  },
+  {
+    "name": "BidWright",
+    "repo": "braedonsaunders/bidwright",
+    "homepage": "https://demo.bidwright.app",
+    "category": "bim-cad",
+    "description": "Open-source construction estimating with 2D/3D/PDF/BIM takeoff, assemblies, pricing, scheduling, and bid quotes.",
+    "license": "AGPL-3.0",
+    "language": "TypeScript",
+    "added": "2026-09-23"
   }
 ]

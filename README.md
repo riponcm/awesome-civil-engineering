@@ -300,6 +300,15 @@ Open-source BIM and CAD software: Building Information Modeling, IFC interoperab
 <img src="https://img.shields.io/github/stars/specklesystems/speckle-server?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for specklesystems/speckle-server">
 </td>
 </tr>
+<tr>
+<td width="25%" valign="top">
+<a href="https://demo.bidwright.app"><b>BidWright</b></a><br>
+<sub><b>BIM / CAD</b></sub><br><br>
+<sub>Open-source construction estimating with 2D/3D/PDF/BIM takeoff, assemblies, pricing, scheduling, and bid quotes.</sub><br><br>
+<img src="https://img.shields.io/badge/-TypeScript-24292f?style=flat-square" alt="Written in TypeScript">
+<img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for braedonsaunders/bidwright">
+</td>
+</tr>
 </table>
 
 <a id="gis-geospatial"></a>
