@@ -418,5 +418,15 @@
     "license": "MIT",
     "language": "Python",
     "added": "2026-07-31"
+  },
+  {
+    "name": "Awesome AECO",
+    "repo": "osama-ata/Awesome-AECO",
+    "homepage": "https://osama-ata.github.io/Awesome-AECO/",
+    "category": "bim-cad",
+    "description": "Curated list of open-source AECO tools: BIM, IFC, CAD, Revit, simulation, digital twins, GIS and cost estimation.",
+    "license": "CC0-1.0",
+    "added": "2026-10-04",
+    "language": "Markdown"
   }
 ]

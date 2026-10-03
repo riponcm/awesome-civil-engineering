@@ -71,15 +71,16 @@ Open-source BIM and CAD software: Building Information Modeling, IFC interoperab
 - [IfcOpenShell](https://ifcopenshell.org): Open source IFC library and geometry engine powering BIM interoperability tools. (License: LGPL-3.0; Language: C++; Source: https://github.com/IfcOpenShell/IfcOpenShell)
 - [That Open Engine](https://thatopen.github.io/engine_web-ifc/demo): Fast IFC parsing and geometry engine for reading and writing BIM models in JavaScript and WebAssembly. (License: MPL-2.0; Language: TypeScript; Source: https://github.com/ThatOpen/engine_web-ifc)
 - [Speckle](https://speckle.systems): Collaborative data hub for AEC: exchange 3D models and BIM data between design tools in real time. (License: Apache-2.0; Language: TypeScript; Source: https://github.com/specklesystems/speckle-server)
+- [Awesome AECO](https://osama-ata.github.io/Awesome-AECO/): Curated list of open-source AECO tools: BIM, IFC, CAD, Revit, simulation, digital twins, GIS and cost estimation. (License: CC0-1.0; Language: Markdown; Source: https://github.com/osama-ata/Awesome-AECO)
 
 ## GIS & Geospatial
 
 Open-source GIS software and geospatial libraries for spatial data management, mapping, and geographic analysis in civil and infrastructure projects.
 
 - [QGIS](https://qgis.org): Full-featured, free and open-source geographic information system for spatial data management and analysis. (License: GPL-2.0; Language: C++; Source: https://github.com/qgis/QGIS)
+- [GeoLibre](https://geolibre.app): Lightweight, cloud-native GIS platform that runs in the browser, on desktop, on mobile, and inside Jupyter notebooks. (License: MIT; Language: TypeScript; Source: https://github.com/opengeos/GeoLibre)
 - [GDAL](https://gdal.org): Translator library for raster and vector geospatial data formats, powering most GIS software under the hood. (License: MIT; Language: C++; Source: https://github.com/OSGeo/gdal)
 - [GeoPandas](https://geopandas.org): Pandas-based Python library for geospatial vector data: geometry operations, spatial joins, and mapping. (License: BSD-3-Clause; Language: Python; Source: https://github.com/geopandas/geopandas)
-- [GeoLibre](https://geolibre.app): Lightweight, cloud-native GIS platform that runs in the browser, on desktop, on mobile, and inside Jupyter notebooks. (License: MIT; Language: TypeScript; Source: https://github.com/opengeos/GeoLibre)
 - [AcadGIS](https://acadgis.com): Study-area and research map generator: turns a place name and a data table into journal-ready maps in a few lines of Python. (License: Apache-2.0; Language: Python; Source: https://github.com/riponcm/AcadGIS)
 
 ## Surveying & Point Cloud Processing
