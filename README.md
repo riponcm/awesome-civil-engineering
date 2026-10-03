@@ -300,6 +300,15 @@ Open-source BIM and CAD software: Building Information Modeling, IFC interoperab
 <img src="https://img.shields.io/github/stars/specklesystems/speckle-server?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for specklesystems/speckle-server">
 </td>
 </tr>
+<tr>
+<td width="25%" valign="top">
+<a href="https://osama-ata.github.io/Awesome-AECO/"><b>Awesome AECO</b></a><br>
+<sub><b>BIM / CAD</b></sub><br><br>
+<sub>Curated list of open-source AECO tools: BIM, IFC, CAD, Revit, simulation, digital twins, GIS and cost estimation.</sub><br><br>
+<img src="https://img.shields.io/badge/-Markdown-24292f?style=flat-square" alt="Written in Markdown">
+<img src="https://img.shields.io/github/stars/osama-ata/Awesome-AECO?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for osama-ata/Awesome-AECO">
+</td>
+</tr>
 </table>
 
 <a id="gis-geospatial"></a>
@@ -317,6 +326,13 @@ Open-source GIS software and geospatial libraries for spatial data management, m
 <img src="https://img.shields.io/github/stars/qgis/QGIS?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for qgis/QGIS">
 </td>
 <td width="25%" valign="top">
+<a href="https://geolibre.app"><b>GeoLibre</b></a><br>
+<sub><b>GIS</b></sub><br><br>
+<sub>Lightweight, cloud-native GIS platform that runs in the browser, on desktop, on mobile, and inside Jupyter notebooks.</sub><br><br>
+<img src="https://img.shields.io/badge/-TypeScript-24292f?style=flat-square" alt="Written in TypeScript">
+<img src="https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for opengeos/GeoLibre">
+</td>
+<td width="25%" valign="top">
 <a href="https://gdal.org"><b>GDAL</b></a><br>
 <sub><b>GIS</b></sub><br><br>
 <sub>Translator library for raster and vector geospatial data formats, powering most GIS software under the hood.</sub><br><br>
@@ -329,13 +345,6 @@ Open-source GIS software and geospatial libraries for spatial data management, m
 <sub>Pandas-based Python library for geospatial vector data: geometry operations, spatial joins, and mapping.</sub><br><br>
 <img src="https://img.shields.io/badge/-Python-24292f?style=flat-square" alt="Written in Python">
 <img src="https://img.shields.io/github/stars/geopandas/geopandas?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for geopandas/geopandas">
-</td>
-<td width="25%" valign="top">
-<a href="https://geolibre.app"><b>GeoLibre</b></a><br>
-<sub><b>GIS</b></sub><br><br>
-<sub>Lightweight, cloud-native GIS platform that runs in the browser, on desktop, on mobile, and inside Jupyter notebooks.</sub><br><br>
-<img src="https://img.shields.io/badge/-TypeScript-24292f?style=flat-square" alt="Written in TypeScript">
-<img src="https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for opengeos/GeoLibre">
 </td>
 </tr>
 <tr>
