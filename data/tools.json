@@ -418,5 +418,15 @@
     "license": "MIT",
     "language": "Python",
     "added": "2026-07-31"
+  },
+  {
+    "name": "BIM Guard",
+    "repo": "maicen/bim-guard",
+    "homepage": "https://bim-guard.xyz/",
+    "category": "bim-cad",
+    "description": "BIM compliance app: validate IFC models against buildingSMART IDS rules and ISO 19650 naming, and report issues as BCF.",
+    "license": "Not specified",
+    "added": "2026-10-04",
+    "language": "Python"
   }
 ]
