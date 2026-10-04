@@ -71,6 +71,13 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 <img src="https://img.shields.io/badge/-C%2B%2B-24292f?style=flat-square" alt="Written in C++">
 <img src="https://img.shields.io/github/stars/xcfem/xc?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for xcfem/xc">
 </td>
+<td width="25%" valign="top">
+<a href="https://docs.rs/trussx"><b>trussx</b></a><br>
+<sub><b>STRUCTURAL</b></sub><br><br>
+<sub>Rust library for designing and analyzing truss structures, including loads, stresses, buckling, and safety factors.</sub><br><br>
+<img src="https://img.shields.io/badge/-Rust-24292f?style=flat-square" alt="Written in Rust">
+<img src="https://img.shields.io/github/stars/cmccomb/trussx?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for cmccomb/trussx">
+</td>
 </tr>
 </table>
 
