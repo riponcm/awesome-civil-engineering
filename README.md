@@ -71,6 +71,13 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 <img src="https://img.shields.io/badge/-C%2B%2B-24292f?style=flat-square" alt="Written in C++">
 <img src="https://img.shields.io/github/stars/xcfem/xc?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for xcfem/xc">
 </td>
+<td width="25%" valign="top">
+<a href="https://github.com/cmccomb/TrussMe"><b>TrussMe</b></a><br>
+<sub><b>STRUCTURAL</b></sub><br><br>
+<sub>Python library for analyzing and optimizing truss structures, including loads, reactions, member safety factors, and mass.</sub><br><br>
+<img src="https://img.shields.io/badge/-Python-24292f?style=flat-square" alt="Written in Python">
+<img src="https://img.shields.io/github/stars/cmccomb/TrussMe?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for cmccomb/TrussMe">
+</td>
 </tr>
 </table>
 
