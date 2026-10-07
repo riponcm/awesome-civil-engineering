@@ -18,6 +18,7 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 - [anaStruct](https://anastruct.readthedocs.io): Analyse 2D frames and trusses for slender structures: bending moments, shear, axial forces, and displacements. (License: LGPL-3.0; Language: Python; Source: https://github.com/anastruct/anaStruct)
 - [XC](http://www.xcengineering.xyz/html_files/software.html): Open-source finite element analysis program oriented to civil and structural engineering problems. (License: GPL-3.0; Language: C++; Source: https://github.com/xcfem/xc)
 - [TrussMe](https://github.com/cmccomb/TrussMe): Python library for analyzing and optimizing truss structures, including loads, reactions, member safety factors, and mass. (License: MIT; Language: Python; Source: https://github.com/cmccomb/TrussMe)
+- [trussx](https://docs.rs/trussx): Rust library for designing and analyzing truss structures, including loads, stresses, buckling, and safety factors. (License: MIT; Language: Rust; Source: https://github.com/cmccomb/trussx)
 
 ## Geotechnical Engineering
 
@@ -78,9 +79,9 @@ Open-source BIM and CAD software: Building Information Modeling, IFC interoperab
 Open-source GIS software and geospatial libraries for spatial data management, mapping, and geographic analysis in civil and infrastructure projects.
 
 - [QGIS](https://qgis.org): Full-featured, free and open-source geographic information system for spatial data management and analysis. (License: GPL-2.0; Language: C++; Source: https://github.com/qgis/QGIS)
+- [GeoLibre](https://geolibre.app): Lightweight, cloud-native GIS platform that runs in the browser, on desktop, on mobile, and inside Jupyter notebooks. (License: MIT; Language: TypeScript; Source: https://github.com/opengeos/GeoLibre)
 - [GDAL](https://gdal.org): Translator library for raster and vector geospatial data formats, powering most GIS software under the hood. (License: MIT; Language: C++; Source: https://github.com/OSGeo/gdal)
 - [GeoPandas](https://geopandas.org): Pandas-based Python library for geospatial vector data: geometry operations, spatial joins, and mapping. (License: BSD-3-Clause; Language: Python; Source: https://github.com/geopandas/geopandas)
-- [GeoLibre](https://geolibre.app): Lightweight, cloud-native GIS platform that runs in the browser, on desktop, on mobile, and inside Jupyter notebooks. (License: MIT; Language: TypeScript; Source: https://github.com/opengeos/GeoLibre)
 - [AcadGIS](https://acadgis.com): Study-area and research map generator: turns a place name and a data table into journal-ready maps in a few lines of Python. (License: Apache-2.0; Language: Python; Source: https://github.com/riponcm/AcadGIS)
 
 ## Surveying & Point Cloud Processing

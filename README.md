@@ -78,6 +78,13 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 <img src="https://img.shields.io/badge/-Python-24292f?style=flat-square" alt="Written in Python">
 <img src="https://img.shields.io/github/stars/cmccomb/TrussMe?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for cmccomb/TrussMe">
 </td>
+<td width="25%" valign="top">
+<a href="https://docs.rs/trussx"><b>trussx</b></a><br>
+<sub><b>STRUCTURAL</b></sub><br><br>
+<sub>Rust library for designing and analyzing truss structures, including loads, stresses, buckling, and safety factors.</sub><br><br>
+<img src="https://img.shields.io/badge/-Rust-24292f?style=flat-square" alt="Written in Rust">
+<img src="https://img.shields.io/github/stars/cmccomb/trussx?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for cmccomb/trussx">
+</td>
 </tr>
 </table>
 
@@ -324,6 +331,13 @@ Open-source GIS software and geospatial libraries for spatial data management, m
 <img src="https://img.shields.io/github/stars/qgis/QGIS?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for qgis/QGIS">
 </td>
 <td width="25%" valign="top">
+<a href="https://geolibre.app"><b>GeoLibre</b></a><br>
+<sub><b>GIS</b></sub><br><br>
+<sub>Lightweight, cloud-native GIS platform that runs in the browser, on desktop, on mobile, and inside Jupyter notebooks.</sub><br><br>
+<img src="https://img.shields.io/badge/-TypeScript-24292f?style=flat-square" alt="Written in TypeScript">
+<img src="https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for opengeos/GeoLibre">
+</td>
+<td width="25%" valign="top">
 <a href="https://gdal.org"><b>GDAL</b></a><br>
 <sub><b>GIS</b></sub><br><br>
 <sub>Translator library for raster and vector geospatial data formats, powering most GIS software under the hood.</sub><br><br>
@@ -336,13 +350,6 @@ Open-source GIS software and geospatial libraries for spatial data management, m
 <sub>Pandas-based Python library for geospatial vector data: geometry operations, spatial joins, and mapping.</sub><br><br>
 <img src="https://img.shields.io/badge/-Python-24292f?style=flat-square" alt="Written in Python">
 <img src="https://img.shields.io/github/stars/geopandas/geopandas?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for geopandas/geopandas">
-</td>
-<td width="25%" valign="top">
-<a href="https://geolibre.app"><b>GeoLibre</b></a><br>
-<sub><b>GIS</b></sub><br><br>
-<sub>Lightweight, cloud-native GIS platform that runs in the browser, on desktop, on mobile, and inside Jupyter notebooks.</sub><br><br>
-<img src="https://img.shields.io/badge/-TypeScript-24292f?style=flat-square" alt="Written in TypeScript">
-<img src="https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for opengeos/GeoLibre">
 </td>
 </tr>
 <tr>

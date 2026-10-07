@@ -428,5 +428,15 @@
     "license": "MIT",
     "language": "Python",
     "added": "2026-07-31"
+  },
+  {
+    "name": "trussx",
+    "repo": "cmccomb/trussx",
+    "homepage": "https://docs.rs/trussx",
+    "category": "structural-engineering",
+    "description": "Rust library for designing and analyzing truss structures, including loads, stresses, buckling, and safety factors.",
+    "license": "MIT",
+    "language": "Rust",
+    "added": "2026-10-04"
   }
 ]
