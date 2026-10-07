@@ -17,6 +17,7 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 - [sectionproperties](https://sectionproperties.rtfd.io): Analysis of arbitrary structural cross-sections in Python: section properties, warping, and stress computation. (License: MIT; Language: Python; Source: https://github.com/robbievanleeuwen/section-properties)
 - [anaStruct](https://anastruct.readthedocs.io): Analyse 2D frames and trusses for slender structures: bending moments, shear, axial forces, and displacements. (License: LGPL-3.0; Language: Python; Source: https://github.com/anastruct/anaStruct)
 - [XC](http://www.xcengineering.xyz/html_files/software.html): Open-source finite element analysis program oriented to civil and structural engineering problems. (License: GPL-3.0; Language: C++; Source: https://github.com/xcfem/xc)
+- [TrussMe](https://github.com/cmccomb/TrussMe): Python library for analyzing and optimizing truss structures, including loads, reactions, member safety factors, and mass. (License: MIT; Language: Python; Source: https://github.com/cmccomb/TrussMe)
 
 ## Geotechnical Engineering
 

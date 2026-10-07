@@ -30,6 +30,16 @@
     "language": "Python"
   },
   {
+    "name": "TrussMe",
+    "repo": "cmccomb/TrussMe",
+    "homepage": "https://github.com/cmccomb/TrussMe",
+    "category": "structural-engineering",
+    "description": "Python library for analyzing and optimizing truss structures, including loads, reactions, member safety factors, and mass.",
+    "license": "MIT",
+    "language": "Python",
+    "added": "2026-10-05"
+  },
+  {
     "name": "GeoEq",
     "repo": "geoeq/geoeq",
     "homepage": "https://geoeq.org",
