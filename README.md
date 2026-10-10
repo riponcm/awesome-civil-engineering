@@ -85,6 +85,13 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 <img src="https://img.shields.io/badge/-Rust-24292f?style=flat-square" alt="Written in Rust">
 <img src="https://img.shields.io/github/stars/cmccomb/trussx?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for cmccomb/trussx">
 </td>
+<td width="25%" valign="top">
+<a href="https://rebarcount.com"><b>rebar-data</b></a><br>
+<sub><b>STRUCTURAL</b></sub><br><br>
+<sub>Nominal rebar sizes, weights and cross-sectional areas as CSV, plus a CLI estimator for rectangular rebar grids.</sub><br><br>
+<img src="https://img.shields.io/badge/-Python-24292f?style=flat-square" alt="Written in Python">
+<img src="https://img.shields.io/github/stars/rebarcount/rebar-data?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for rebarcount/rebar-data">
+</td>
 </tr>
 </table>
 
