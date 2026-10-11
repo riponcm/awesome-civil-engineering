@@ -438,5 +438,15 @@
     "license": "MIT",
     "language": "Rust",
     "added": "2026-10-04"
+  },
+  {
+    "name": "rebar-data",
+    "repo": "rebarcount/rebar-data",
+    "homepage": "https://rebarcount.com",
+    "category": "structural-engineering",
+    "description": "Nominal rebar sizes, weights and cross-sectional areas as CSV, plus a CLI estimator for rectangular rebar grids.",
+    "license": "MIT",
+    "added": "2026-10-10",
+    "language": "Python"
   }
 ]

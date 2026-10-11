@@ -19,6 +19,7 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 - [XC](http://www.xcengineering.xyz/html_files/software.html): Open-source finite element analysis program oriented to civil and structural engineering problems. (License: GPL-3.0; Language: C++; Source: https://github.com/xcfem/xc)
 - [TrussMe](https://github.com/cmccomb/TrussMe): Python library for analyzing and optimizing truss structures, including loads, reactions, member safety factors, and mass. (License: MIT; Language: Python; Source: https://github.com/cmccomb/TrussMe)
 - [trussx](https://docs.rs/trussx): Rust library for designing and analyzing truss structures, including loads, stresses, buckling, and safety factors. (License: MIT; Language: Rust; Source: https://github.com/cmccomb/trussx)
+- [rebar-data](https://rebarcount.com): Nominal rebar sizes, weights and cross-sectional areas as CSV, plus a CLI estimator for rectangular rebar grids. (License: MIT; Language: Python; Source: https://github.com/rebarcount/rebar-data)
 
 ## Geotechnical Engineering
 
