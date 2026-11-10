@@ -72,6 +72,13 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 <img src="https://img.shields.io/github/stars/xcfem/xc?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for xcfem/xc">
 </td>
 <td width="25%" valign="top">
+<a href="https://github.com/haoming-luo/agentfem"><b>AgentFEM</b></a><br>
+<sub><b>STRUCTURAL</b></sub><br><br>
+<sub>Python finite-element platform for structural and thermal studies, with editable models, command-line runs and result verification.</sub><br><br>
+<img src="https://img.shields.io/badge/-Python-24292f?style=flat-square" alt="Written in Python">
+<img src="https://img.shields.io/github/stars/haoming-luo/agentfem?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for haoming-luo/agentfem">
+</td>
+<td width="25%" valign="top">
 <a href="https://github.com/cmccomb/TrussMe"><b>TrussMe</b></a><br>
 <sub><b>STRUCTURAL</b></sub><br><br>
 <sub>Python library for analyzing and optimizing truss structures, including loads, reactions, member safety factors, and mass.</sub><br><br>
@@ -85,6 +92,8 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 <img src="https://img.shields.io/badge/-Rust-24292f?style=flat-square" alt="Written in Rust">
 <img src="https://img.shields.io/github/stars/cmccomb/trussx?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for cmccomb/trussx">
 </td>
+</tr>
+<tr>
 <td width="25%" valign="top">
 <a href="https://rebarcount.com"><b>rebar-data</b></a><br>
 <sub><b>STRUCTURAL</b></sub><br><br>
