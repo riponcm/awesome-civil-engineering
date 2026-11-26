@@ -458,5 +458,15 @@
     "license": "MIT",
     "added": "2026-10-10",
     "language": "Python"
+  },
+  {
+    "name": "EduBeam",
+    "repo": "janvorisek/edubeam",
+    "homepage": "https://www.edubeam.app",
+    "category": "structural-engineering",
+    "description": "Browser app for 2D beams, frames and trusses: reactions, axial, shear and moment diagrams and deflections, in 22 languages.",
+    "license": "GPL-3.0",
+    "language": "TypeScript",
+    "added": "2026-11-26"
   }
 ]

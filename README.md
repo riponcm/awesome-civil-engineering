@@ -101,6 +101,13 @@ Open-source structural analysis software: finite element analysis (FEA) framewor
 <img src="https://img.shields.io/badge/-Python-24292f?style=flat-square" alt="Written in Python">
 <img src="https://img.shields.io/github/stars/rebarcount/rebar-data?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for rebarcount/rebar-data">
 </td>
+<td width="25%" valign="top">
+<a href="https://www.edubeam.app"><b>EduBeam</b></a><br>
+<sub><b>STRUCTURAL</b></sub><br><br>
+<sub>Browser app for 2D beams, frames and trusses: reactions, axial, shear and moment diagrams and deflections, in 22 languages.</sub><br><br>
+<img src="https://img.shields.io/badge/-TypeScript-24292f?style=flat-square" alt="Written in TypeScript">
+<img src="https://img.shields.io/github/stars/janvorisek/edubeam?style=flat-square&label=%E2%98%85&color=ffd54f&labelColor=24292f" alt="GitHub stars for janvorisek/edubeam">
+</td>
 </tr>
 </table>
 
